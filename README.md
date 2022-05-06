@@ -1,6 +1,6 @@
 # String
 
-It is string problem solving repository which solved any string problems.
+It is string problem solving repository which solved any string, string buffer and string builder problems.
 
 Rules:
 1. Solve each problem by creating a new class
